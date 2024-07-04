@@ -2,7 +2,7 @@
     "name": "#Document 7a55a897b799cba3",
     "description": "A partir de um documento original digital, seguindo as regras do Decreto 10.278/2020 e Lei 12.682/2012, o sistema cria um NFT para o documento e faz o seu registro em uma Rede Blockchain Pública, fazendo prova de sua existência naquele formato e naquele momento.",
     "date": 1720060590,
-    "image": "http://localhost:8000/nft/7a55a897b799cba3.png",
+    "image": "https://cazemoises.github.io/token-uri/0976.png",
     "attributes": [
         {
             "trait_type": "Document Hash",
