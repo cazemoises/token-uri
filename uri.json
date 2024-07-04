@@ -1,0 +1,16 @@
+{
+    "name": "#Document 7a55a897b799cba3",
+    "description": "A partir de um documento original digital, seguindo as regras do Decreto 10.278/2020 e Lei 12.682/2012, o sistema cria um NFT para o documento e faz o seu registro em uma Rede Blockchain Pública, fazendo prova de sua existência naquele formato e naquele momento.",
+    "date": 1720060590,
+    "image": "http://localhost:8000/nft/7a55a897b799cba3.png",
+    "attributes": [
+        {
+            "trait_type": "Document Hash",
+            "value": "430743208703b88be4757b4d6a395a499d1434e438bf0e5f1bc1bfa01225e713"
+        },
+        {
+            "trait_type": "NFT Code",
+            "value": "7a55a897b799cba3"
+        }
+    ]
+}
